@@ -1,0 +1,18 @@
+﻿  Test_Lab3.cpp
+c:\users\asus\source\repos\aastrdlab3\aastrdlab3\matrix_of_adjacencies.h(99): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\asus\source\repos\aastrdlab3\test_lab3\test_lab3.cpp(19): warning C4129: A: неизвестная escape-последовательность
+c:\users\asus\source\repos\aastrdlab3\test_lab3\test_lab3.cpp(19): warning C4129: s: неизвестная escape-последовательность
+c:\users\asus\source\repos\aastrdlab3\test_lab3\test_lab3.cpp(19): warning C4129: T: неизвестная escape-последовательность
+c:\users\asus\source\repos\aastrdlab3\test_lab3\test_lab3.cpp(34): warning C4129: A: неизвестная escape-последовательность
+c:\users\asus\source\repos\aastrdlab3\test_lab3\test_lab3.cpp(34): warning C4129: s: неизвестная escape-последовательность
+c:\users\asus\source\repos\aastrdlab3\test_lab3\test_lab3.cpp(34): warning C4129: T: неизвестная escape-последовательность
+c:\users\asus\source\repos\aastrdlab3\aastrdlab3\list.h(177): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\asus\source\repos\aastrdlab3\aastrdlab3\list.h(175): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\asus\source\repos\aastrdlab3\aastrdlab3\matrix_of_adjacencies.h(23): note: выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+          with
+          [
+              T=std::string
+          ]
+  c:\users\asus\source\repos\aastrdlab3\aastrdlab3\matrix_of_adjacencies.h(17): note: выполняется компиляция ссылки на экземпляр шаблон класс "List<std::string>"
+c:\users\asus\source\repos\aastrdlab3\aastrdlab3\list.h(195): warning C4018: <: несоответствие типов со знаком и без знака
+  Test_Lab3.vcxproj -> C:\Users\Asus\source\repos\AaStrDLab3\Debug\Test_Lab3.dll
